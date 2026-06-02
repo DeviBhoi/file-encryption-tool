@@ -124,7 +124,8 @@ You can include sample images of the interface and workflow such as:
 
 ## Author Information
 
-- Author: Your Name
+- Author: Devi Archana Bhoi
+
 - Project: SecureVault File Encryption Tool
 - Location: c:\Users\sunit\OneDrive\Desktop\file-encryption-tool
 
